@@ -251,8 +251,6 @@ void PrintVector(const std::vector<T>& to_print_vector, std::ostream& ostream) {
 }
 
 void run_test(const std::string& infile_name, const std::string& outfile_name) {
-    std::cout << "testing started" << std::endl;
-
     std::ifstream infile;
     infile.open(infile_name);
 
