@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/salavat/Studying/Subjects/complexity/project/main.cpp
+chrono
+-
+cmath
+-
+fstream
+-
+iostream
+-
+istream
+-
+memory
+-
+ostream
+-
+unordered_set
+-
+vector
+-
+

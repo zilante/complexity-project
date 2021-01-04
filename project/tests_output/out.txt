@@ -1,0 +1,5 @@
+Is correct vertex cover found: 1
+Found vertex cover weight: 118
+Min vertex cover weight: 95
+Approximation searching duration: 161
+Exhaustive searching duration: 6808113
